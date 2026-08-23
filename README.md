@@ -1,16 +1,23 @@
-## Hi there 👋
+# Edward Murithi
 
-<!--
-**edwardmutethia/edwardmutethia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Infrastructure Engineer**
 
-Here are some ideas to get you started:
+I build backend systems, developer tools, and infrastructure
+with Go, Python, and TypeScript, with a focus on Linux,
+networking, and cloud-native technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Backend Engineering
+- Infrastructure & Systems
+- Networking
+- Distributed Systems
+- DevOps & Cloud
+
+## Technologies
+
+**Languages:** Javascript · Python · TypeScript
+
+**Backend:** PostgreSQL · Redis · REST APIs
+
+**Infrastructure:** Linux · Docker · Kubernetes · GitHub Actions
