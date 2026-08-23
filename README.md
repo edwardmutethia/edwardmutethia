@@ -3,7 +3,7 @@
 **Backend & Infrastructure Engineer**
 
 I build backend systems, developer tools, and infrastructure
-with Go, Python, and TypeScript, with a focus on Linux,
+with Javascript, Python, and TypeScript, with a focus on Linux,
 networking, cloud-native technologies, and AI-enabled systems.
 
 #### Focus
