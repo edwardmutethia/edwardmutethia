@@ -1,4 +1,4 @@
-### Edward Murithi
+### Edward Mutethia
 
 **Backend & Infrastructure Engineer**
 
